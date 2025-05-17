@@ -1,0 +1,12 @@
+[package]
+name = "crosswall"
+version = "0.0.0"
+authors = ["Giuliano Bellini <gyulyvgc99@gmail.com>"]
+edition = "2024"
+description = "A cross-platform library to interact with native operating system firewalls"
+readme = "README.md"
+license = "MIT"
+keywords = ["filter", "network", "packet", "firewall"]
+categories = ["network-programming"]
+
+[dependencies]
